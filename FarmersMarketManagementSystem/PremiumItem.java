@@ -20,4 +20,9 @@ public class PremiumItem extends StallItem
 	{
 		return getName()+"\t"+getPrice();
 	}
+	public String testing()
+	{
+		return "hello";
+	}
+		
 }
